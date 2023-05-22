@@ -1,0 +1,8 @@
+studies(kirti,ai).
+studies(rohit,ai).
+studies(geeta,ds).
+studies(jhon,nt).
+teaches(sgs,ai).
+teaches(rjk,nt).
+teaches(rjk,pa).
+teaches(sdp,ds).
