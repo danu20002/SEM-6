@@ -6,3 +6,11 @@ teaches(sgs,ai).
 teaches(rjk,nt).
 teaches(rjk,pa).
 teaches(sdp,ds).
+
+
+
+
+
+
+del(X,[X|T],T).
+del(X,[H|T],[H|T1]):-del(X,T,T1).
