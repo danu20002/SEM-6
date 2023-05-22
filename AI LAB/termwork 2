@@ -14,3 +14,10 @@ teaches(sdp,ds).
 
 del(X,[X|T],T).
 del(X,[H|T],[H|T1]):-del(X,T,T1).
+
+
+
+
+
+listmember(X,[X|_]).
+listmember(X,[_|Tall]):-listmember(X,Tall).
