@@ -1,0 +1,4 @@
+*.prolog lingist-detectable=True
+*.java lingist-detectable=True
+*.html lingist-detectable=True
+*.xml lingist-detectable=True
