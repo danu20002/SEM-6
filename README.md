@@ -1,7 +1,7 @@
 # SEM-6
 uploaded what i read for exams 💕❤️
 
-special Thanks for 
+special Thanks  to
 
  Adarsh Kumbar,
  
