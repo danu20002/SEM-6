@@ -1,3 +1,3 @@
-# SEM-6
-uploaded what i read for exams 💕❤️
+# If files donot open You can clone the repository by clicking on code button  and download zip file
+
 
